@@ -144,3 +144,7 @@ To build a full-featured, modular, AI-powered resume and job analysis platform u
 
 ## Goal
 Deliver a production-grade, modular, extensible resume intelligence platform capable of real-time feedback, batch analysis, ATS optimization, and skill recommendation, ready for integration with external services (LMS, job portals, ATS systems).
+
+
+![mermaid-diagram-2025-06-13-112042](https://github.com/user-attachments/assets/61115e2f-3544-4d82-9dea-9c7be2aeb02b)
+
